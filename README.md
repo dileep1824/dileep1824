@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dileep1824
+- 👋 Hi, I’m dileep1824
 - 👀 I’m interested in ... networking,security and Iot
 - 🌱 I’m currently learning ... concepts of networking,ML (a little) 
 - ✨ I’m looking to collaborate on ... projects based on web,networking (Not sure if I can collaborate much but i wish to give a try)
