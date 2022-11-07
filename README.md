@@ -1,7 +1,7 @@
 - 👋 Hi, I’m dileep1824
-- 👀 I’m interested in ... networking,security and Iot
+- 👀 I’m interested in ... networking,security
 - 🌱 I’m currently learning ... concepts of networking,ML (a little) 
-- ✨ I’m looking to collaborate on ... projects based on web,networking (Not sure if I can collaborate much but i wish to give a try)
+- ✨ I’m looking to collaborate on ... projects based on web,networking 
 - 📫 How to reach me ... 📧 - dileepmallukuntla@gmail.com
                         
 <!---
